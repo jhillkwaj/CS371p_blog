@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Week Eleven
+title: Week Ten
 ---
 
 <b>What did you do this past week?</b>
-This week we read a paper on Why Extends is Evil and two on Why Getters and Setters are Evil. These papers stressed adherence to object oriented design methodology and explained how classes extending each other and overuse of getter and setter methods can negate proper design. This helped explain why were were not supposed to use getter and setter methods in the 4th programming project which we finished this week. In class we discussed r value constructors, function overloading, and applied these to our vector example from last week.
+This week we read papers on Granularity and Stability, began working on the fourth project, and went over how to implement a vector class both with and without an allocator function. Additionally three people from Atlassian gave a talk Monday nigh. The began by discussing the various products that Atlassian makes to allow people to better work together including Jira, Bitbucket, and HipChat. Net they talked about some technical problems they faced in HipChat regarding showing if users were online or not. I though this part of the talk was really interesting as it went over some interesting real world challenges they faced and various possible solutions. Finally they discussed what it was like to work at Atlassian. I thought the company sounded interesting and like a fun place to work but I don't think I would like to work there since they focus very heavily on teamwork and collaboration and make their software engineers be on call to fix issues.
 
 <b>What's in your way?</b>
-I did well on the quizzes this week so I feel like I am getting the material. The last few weeks are really busy for me so I need to get a head start on the final project and studying for exam two projects. The fourth project took longer than it needed to because we ended up with a lot of bugs in the program because we didn't write tests until after we wrote the code. Next time I will make sure to write tests as I go along.
+I did well on the first two quizzes this week but struggled on the third. It should have been easy but I got confused as to which vector methods should be constant. Before the next class I need to look over the vector implementation some more and I need to be more careful to think things over while taking the quiz. While we have written most of the code for Darwin we have yet to pass the hackerrank tests so we need to continue to work to get the project done.
 
 <b>What will you do next week?</b>
-This week we will read papers on What Should We Teach and The Joel Test. We will also go over the fifth project and will begin working on it. I need to find a partner to do it with.
+This week we will read papers on Why Extends is Evil, Getters and Setters, and More on Getters and Setters. The Darwin project is due on Thursday so we will complete it by then.
 
 <b>What's my experience of the class?</b>
-The fourth project was interesting but the last of tests cases that covered much of the functionality made it difficult. Fortunately we were eventually able to use tests from the public repo and ones the TAs gave us to debug our code.
+The class has been going well. As detailed above the talk by Atlassian was interesting and the Darwin project, while harder than the others, is interesting.
 
 <b>What's my pick-of-the-week or tip-of-the-week?</b>
-I found this article on preparing for a system design interview interesting. I have thought a lot about coding for technical interviewers but not about larger scale design. You can read it <a href="https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054/">here</a>.
+Earlier today I came across an article where I game developer looked back at some of the code he had written at various points in his career and critiqued it. It provides a lot of good tips for writing easy to read and well organized code. You can read it <a href="http://etodd.io/2017/03/29/thirteen-years-of-bad-game-code/">here</a>.
