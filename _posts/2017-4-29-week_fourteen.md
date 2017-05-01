@@ -17,4 +17,4 @@ The lectures have been very useful. I feel like I have learned a lot about c++ a
 
 <b>What's my pick-of-the-week or tip-of-the-week?</b>
 How about a couple fun this before this terrible week? 
-<a href="https://youtu.be/uNjxe8ShM-8">This video about programming in PowerPoint is hilarious</a> <a href="https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/">and I enjoyed reading about these dumb security issues on various websites.</a> 
+<a href="https://youtu.be/uNjxe8ShM-8">This video about programming in PowerPoint is hilarious</a> and <a href="https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/">I enjoyed reading about these dumb security issues on various websites.</a> 
